@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <Signup/>
       hello i'm Kismat
+      How are you??
     </div>
   );
 }
